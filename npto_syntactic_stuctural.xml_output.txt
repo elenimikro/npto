@@ -1,0 +1,1200 @@
+Syntactic regularities for http://www.co-ode.org/roberts/atoms.owl Axioms 1176
+Cluster ?cluster_1:CLASS
+Cluster size: 118
+[XenonAtom, BerylliumAtom, CesiumAtom, UnunpentiumAtom, CaliforniumAtom, FluorineAtom, RutheniumAtom, NiobiumAtom, NeodymiumAtom, HolmiumAtom, PoloniumAtom, LutetiumAtom, ScandiumAtom, ArsenicAtom, IridiumAtom, ZirconiumAtom, BismuthAtom, ProtactiniumAtom, SiliconAtom, UnunoctiumAtom, NeonAtom, HassiumAtom, HeliumAtom, AntimonyAtom, KryptonAtom, ChromiumAtom, ErbiumAtom, FleroviumAtom, NeptuniumAtom, SulfurAtom, YtterbiumAtom, NobeliumAtom, LawrenciumAtom, MolybdenumAtom, LeadAtom, BariumAtom, EinsteiniumAtom, YttriumAtom, EuropiumAtom, PhosphorusAtom, GadoliniumAtom, ActiniumAtom, IronAtom, CalciumAtom, TelluriumAtom, PotassiumAtom, TerbiumAtom, UraniumAtom, ManganeseAtom, RheniumAtom, SamariumAtom, CopperAtom, DubniumAtom, SeleniumAtom, FranciumAtom, GoldAtom, FermiumAtom, RadonAtom, UnunseptiumAtom, PalladiumAtom, CarbonAtom, PraseodymiumAtom, PromethiumAtom, RoentgeniumAtom, CeriumAtom, HafniumAtom, RadiumAtom, AmericiumAtom, LithiumAtom, LanthanumAtom, ChlorineAtom, SilverAtom, AstatineAtom, MercuryAtom, TantalumAtom, GermaniumAtom, SodiumAtom, GalliumAtom, DarmstadtiumAtom, IodineAtom, DysprosiumAtom, UnuntriumAtom, ThuliumAtom, PlutoniumAtom, AluminumAtom, ArgonAtom, RubidiumAtom, MagnesiumAtom, ThalliumAtom, OxygenAtom, TinAtom, CuriumAtom, BromineAtom, LivermoriumAtom, HydrogenAtom, IndiumAtom, CobaltAtom, ZincAtom, CoperniciumAtom, CadmiumAtom, RutherfordiumAtom, RhodiumAtom, PlatinumAtom, NitrogenAtom, StrontiumAtom, MendeleviumAtom, TechnetiumAtom, VanadiumAtom, BoronAtom, NickelAtom, ThoriumAtom, BerkeliumAtom, MeitneriumAtom, BohriumAtom, TungstenAtom, OsmiumAtom, TitaniumAtom, SeaborgiumAtom, ]
+Generalisations:
+?cluster_1 SubClassOf ?cluster_4 some ?DomainEntity
+	 Instantiations: (203)
+	CopperAtom SubClassOf hasMetalness some Metal 
+	ChromiumAtom SubClassOf hasPhysicalState some SolidState 
+	GoldAtom SubClassOf hasPhysicalState some SolidState 
+	SilverAtom SubClassOf hasMetalness some Metal 
+	BromineAtom SubClassOf hasPhysicalState some LiquidState 
+	BohriumAtom SubClassOf hasPhysicalState some SolidState 
+	NickelAtom SubClassOf hasMetalness some Metal 
+	CesiumAtom SubClassOf hasPhysicalState some SolidState 
+	CobaltAtom SubClassOf hasMetalness some Metal 
+	MagnesiumAtom SubClassOf hasPhysicalState some SolidState 
+	RubidiumAtom SubClassOf hasMetalness some Metal 
+	LanthanumAtom SubClassOf hasMetalness some Metal 
+	CesiumAtom SubClassOf hasMetalness some Metal 
+	CobaltAtom SubClassOf hasPhysicalState some SolidState 
+	StrontiumAtom SubClassOf hasPhysicalState some SolidState 
+	BerkeliumAtom SubClassOf hasPhysicalState some SolidState 
+	GadoliniumAtom SubClassOf hasMetalness some Metal 
+	PlatinumAtom SubClassOf hasPhysicalState some SolidState 
+	MercuryAtom SubClassOf hasPhysicalState some LiquidState 
+	ProtactiniumAtom SubClassOf hasMetalness some Metal 
+	RheniumAtom SubClassOf hasMetalness some Metal 
+	YttriumAtom SubClassOf hasPhysicalState some SolidState 
+	ZirconiumAtom SubClassOf hasMetalness some Metal 
+	HolmiumAtom SubClassOf hasPhysicalState some SolidState 
+	IridiumAtom SubClassOf hasPhysicalState some SolidState 
+	PhosphorusAtom SubClassOf hasPhysicalState some SolidState 
+	TinAtom SubClassOf hasPhysicalState some SolidState 
+	RubidiumAtom SubClassOf hasPhysicalState some SolidState 
+	FermiumAtom SubClassOf hasMetalness some Metal 
+	CoperniciumAtom SubClassOf hasPhysicalState some SolidState 
+	PromethiumAtom SubClassOf hasMetalness some Metal 
+	RutherfordiumAtom SubClassOf hasMetalness some Metal 
+	ThalliumAtom SubClassOf hasMetalness some Metal 
+	RoentgeniumAtom SubClassOf hasMetalness some Metal 
+	PlutoniumAtom SubClassOf hasMetalness some Metal 
+	NeonAtom SubClassOf hasMetalness some NonMetal 
+	RadonAtom SubClassOf hasMetalness some NonMetal 
+	FranciumAtom SubClassOf hasMetalness some Metal 
+	GadoliniumAtom SubClassOf hasPhysicalState some SolidState 
+	EinsteiniumAtom SubClassOf hasPhysicalState some SolidState 
+	OxygenAtom SubClassOf hasPhysicalState some GasState 
+	IronAtom SubClassOf hasMetalness some Metal 
+	AstatineAtom SubClassOf hasMetalness some NonMetal 
+	SamariumAtom SubClassOf hasPhysicalState some SolidState 
+	FranciumAtom SubClassOf hasPhysicalState some SolidState 
+	SodiumAtom SubClassOf hasMetalness some Metal 
+	BismuthAtom SubClassOf hasMetalness some Metal 
+	PotassiumAtom SubClassOf hasPhysicalState some SolidState 
+	DarmstadtiumAtom SubClassOf hasMetalness some Metal 
+	ActiniumAtom SubClassOf hasMetalness some Metal 
+	CeriumAtom SubClassOf hasPhysicalState some SolidState 
+	CarbonAtom SubClassOf hasMetalness some NonMetal 
+	MolybdenumAtom SubClassOf hasMetalness some Metal 
+	PhosphorusAtom SubClassOf hasMetalness some NonMetal 
+	RadiumAtom SubClassOf hasPhysicalState some SolidState 
+	ArsenicAtom SubClassOf hasPhysicalState some SolidState 
+	BismuthAtom SubClassOf hasPhysicalState some SolidState 
+	CadmiumAtom SubClassOf hasPhysicalState some SolidState 
+	ScandiumAtom SubClassOf hasPhysicalState some SolidState 
+	HeliumAtom SubClassOf hasMetalness some NonMetal 
+	SulfurAtom SubClassOf hasPhysicalState some SolidState 
+	DysprosiumAtom SubClassOf hasPhysicalState some SolidState 
+	CuriumAtom SubClassOf hasPhysicalState some SolidState 
+	IronAtom SubClassOf hasPhysicalState some SolidState 
+	DubniumAtom SubClassOf hasPhysicalState some SolidState 
+	NiobiumAtom SubClassOf hasMetalness some Metal 
+	NitrogenAtom SubClassOf hasPhysicalState some GasState 
+	DysprosiumAtom SubClassOf hasMetalness some Metal 
+	MolybdenumAtom SubClassOf hasPhysicalState some SolidState 
+	RutheniumAtom SubClassOf hasPhysicalState some SolidState 
+	MeitneriumAtom SubClassOf hasPhysicalState some SolidState 
+	IridiumAtom SubClassOf hasMetalness some Metal 
+	LithiumAtom SubClassOf hasMetalness some Metal 
+	XenonAtom SubClassOf hasPhysicalState some GasState 
+	ErbiumAtom SubClassOf hasPhysicalState some SolidState 
+	FluorineAtom SubClassOf hasPhysicalState some GasState 
+	CeriumAtom SubClassOf hasMetalness some Metal 
+	EinsteiniumAtom SubClassOf hasMetalness some Metal 
+	CarbonAtom SubClassOf hasPhysicalState some SolidState 
+	HafniumAtom SubClassOf hasPhysicalState some SolidState 
+	RoentgeniumAtom SubClassOf hasPhysicalState some SolidState 
+	YttriumAtom SubClassOf hasMetalness some Metal 
+	SiliconAtom SubClassOf hasPhysicalState some SolidState 
+	MendeleviumAtom SubClassOf hasMetalness some Metal 
+	ZincAtom SubClassOf hasMetalness some Metal 
+	AntimonyAtom SubClassOf hasMetalness some Metalloid 
+	HassiumAtom SubClassOf hasMetalness some Metal 
+	GalliumAtom SubClassOf hasMetalness some Metalloid 
+	ChlorineAtom SubClassOf hasMetalness some NonMetal 
+	IodineAtom SubClassOf hasMetalness some NonMetal 
+	BerylliumAtom SubClassOf hasMetalness some Metal 
+	CuriumAtom SubClassOf hasMetalness some Metal 
+	TungstenAtom SubClassOf hasMetalness some Metal 
+	UraniumAtom SubClassOf hasMetalness some Metal 
+	GermaniumAtom SubClassOf hasMetalness some Metalloid 
+	DarmstadtiumAtom SubClassOf hasPhysicalState some SolidState 
+	EuropiumAtom SubClassOf hasPhysicalState some SolidState 
+	PalladiumAtom SubClassOf hasMetalness some Metal 
+	OxygenAtom SubClassOf hasMetalness some NonMetal 
+	ChromiumAtom SubClassOf hasMetalness some Metal 
+	ThalliumAtom SubClassOf hasPhysicalState some SolidState 
+	NobeliumAtom SubClassOf hasMetalness some Metal 
+	HolmiumAtom SubClassOf hasMetalness some Metal 
+	HeliumAtom SubClassOf hasPhysicalState some GasState 
+	KryptonAtom SubClassOf hasPhysicalState some GasState 
+	FluorineAtom SubClassOf hasMetalness some NonMetal 
+	ArgonAtom SubClassOf hasMetalness some NonMetal 
+	YtterbiumAtom SubClassOf hasMetalness some Metal 
+	DubniumAtom SubClassOf hasMetalness some Metal 
+	ArsenicAtom SubClassOf hasMetalness some Metalloid 
+	GalliumAtom SubClassOf hasPhysicalState some SolidState 
+	RadiumAtom SubClassOf hasMetalness some Metal 
+	ManganeseAtom SubClassOf hasMetalness some Metal 
+	BoronAtom SubClassOf hasMetalness some Metalloid 
+	LawrenciumAtom SubClassOf hasMetalness some Metal 
+	NitrogenAtom SubClassOf hasMetalness some NonMetal 
+	LeadAtom SubClassOf hasMetalness some Metal 
+	GoldAtom SubClassOf hasMetalness some Metal 
+	StrontiumAtom SubClassOf hasMetalness some Metal 
+	NeptuniumAtom SubClassOf hasMetalness some Metal 
+	ThuliumAtom SubClassOf hasMetalness some Metal 
+	PoloniumAtom SubClassOf hasPhysicalState some SolidState 
+	RutheniumAtom SubClassOf hasMetalness some Metal 
+	NeonAtom SubClassOf hasPhysicalState some GasState 
+	RadonAtom SubClassOf hasPhysicalState some GasState 
+	AstatineAtom SubClassOf hasPhysicalState some SolidState 
+	HassiumAtom SubClassOf hasPhysicalState some SolidState 
+	IndiumAtom SubClassOf hasMetalness some Metal 
+	ZincAtom SubClassOf hasPhysicalState some SolidState 
+	AluminumAtom SubClassOf hasMetalness some Metal 
+	ThoriumAtom SubClassOf hasPhysicalState some SolidState 
+	CadmiumAtom SubClassOf hasMetalness some Metal 
+	TerbiumAtom SubClassOf hasMetalness some Metal 
+	FermiumAtom SubClassOf hasPhysicalState some SolidState 
+	ChlorineAtom SubClassOf hasPhysicalState some GasState 
+	IndiumAtom SubClassOf hasPhysicalState some SolidState 
+	SeleniumAtom SubClassOf hasMetalness some Metal 
+	BromineAtom SubClassOf hasMetalness some NonMetal 
+	EuropiumAtom SubClassOf hasMetalness some Metal 
+	BariumAtom SubClassOf hasPhysicalState some SolidState 
+	PoloniumAtom SubClassOf hasMetalness some Metal 
+	IodineAtom SubClassOf hasPhysicalState some SolidState 
+	RhodiumAtom SubClassOf hasMetalness some Metal 
+	TechnetiumAtom SubClassOf hasPhysicalState some SolidState 
+	VanadiumAtom SubClassOf hasPhysicalState some SolidState 
+	SeaborgiumAtom SubClassOf hasPhysicalState some SolidState 
+	CoperniciumAtom SubClassOf hasMetalness some Metal 
+	SeaborgiumAtom SubClassOf hasMetalness some Metal 
+	AmericiumAtom SubClassOf hasMetalness some Metal 
+	TelluriumAtom SubClassOf hasMetalness some Metalloid 
+	TantalumAtom SubClassOf hasPhysicalState some SolidState 
+	TitaniumAtom SubClassOf hasMetalness some Metal 
+	XenonAtom SubClassOf hasMetalness some NonMetal 
+	PlatinumAtom SubClassOf hasMetalness some Metal 
+	MendeleviumAtom SubClassOf hasPhysicalState some SolidState 
+	SamariumAtom SubClassOf hasMetalness some Metal 
+	MagnesiumAtom SubClassOf hasMetalness some Metal 
+	BerylliumAtom SubClassOf hasPhysicalState some SolidState 
+	AluminumAtom SubClassOf hasPhysicalState some SolidState 
+	ArgonAtom SubClassOf hasPhysicalState some GasState 
+	AmericiumAtom SubClassOf hasPhysicalState some SolidState 
+	LutetiumAtom SubClassOf hasMetalness some Metal 
+	CalciumAtom SubClassOf hasPhysicalState some SolidState 
+	BohriumAtom SubClassOf hasMetalness some Metal 
+	RutherfordiumAtom SubClassOf hasPhysicalState some SolidState 
+	MercuryAtom SubClassOf hasMetalness some Metal 
+	GermaniumAtom SubClassOf hasPhysicalState some SolidState 
+	PraseodymiumAtom SubClassOf hasMetalness some Metal 
+	SeleniumAtom SubClassOf hasPhysicalState some SolidState 
+	PalladiumAtom SubClassOf hasPhysicalState some SolidState 
+	RhodiumAtom SubClassOf hasPhysicalState some SolidState 
+	NeodymiumAtom SubClassOf hasMetalness some Metal 
+	SulfurAtom SubClassOf hasMetalness some NonMetal 
+	HydrogenAtom SubClassOf hasPhysicalState some GasState 
+	TinAtom SubClassOf hasMetalness some Metal 
+	BerkeliumAtom SubClassOf hasMetalness some Metal 
+	AntimonyAtom SubClassOf hasPhysicalState some SolidState 
+	VanadiumAtom SubClassOf hasMetalness some Metal 
+	RheniumAtom SubClassOf hasPhysicalState some SolidState 
+	LeadAtom SubClassOf hasPhysicalState some SolidState 
+	CalciumAtom SubClassOf hasMetalness some Metal 
+	SiliconAtom SubClassOf hasMetalness some Metalloid 
+	ManganeseAtom SubClassOf hasPhysicalState some SolidState 
+	KryptonAtom SubClassOf hasMetalness some NonMetal 
+	TelluriumAtom SubClassOf hasPhysicalState some SolidState 
+	OsmiumAtom SubClassOf hasPhysicalState some SolidState 
+	CaliforniumAtom SubClassOf hasPhysicalState some SolidState 
+	ActiniumAtom SubClassOf hasPhysicalState some SolidState 
+	ErbiumAtom SubClassOf hasMetalness some Metal 
+	MeitneriumAtom SubClassOf hasMetalness some Metal 
+	ScandiumAtom SubClassOf hasMetalness some Metal 
+	TitaniumAtom SubClassOf hasPhysicalState some SolidState 
+	PotassiumAtom SubClassOf hasMetalness some Metal 
+	BariumAtom SubClassOf hasMetalness some Metal 
+	NiobiumAtom SubClassOf hasPhysicalState some SolidState 
+	CopperAtom SubClassOf hasPhysicalState some SolidState 
+	BoronAtom SubClassOf hasPhysicalState some SolidState 
+	SodiumAtom SubClassOf hasPhysicalState some SolidState 
+	OsmiumAtom SubClassOf hasMetalness some Metal 
+	CaliforniumAtom SubClassOf hasMetalness some Metal 
+	ThoriumAtom SubClassOf hasMetalness some Metal 
+	NickelAtom SubClassOf hasPhysicalState some SolidState 
+	SilverAtom SubClassOf hasPhysicalState some SolidState 
+?cluster_1.IRI hasDiscoveryYear "?constant"^^string
+	 Instantiations: (118)
+	<http://www.co-ode.org/roberts/atoms.owl#IronAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#HafniumAtom> hasDiscoveryYear "1923" 
+	<http://www.co-ode.org/roberts/atoms.owl#TelluriumAtom> hasDiscoveryYear "1783" 
+	<http://www.co-ode.org/roberts/atoms.owl#PlatinumAtom> hasDiscoveryYear "1748" 
+	<http://www.co-ode.org/roberts/atoms.owl#AntimonyAtom> hasDiscoveryYear "1600" 
+	<http://www.co-ode.org/roberts/atoms.owl#MendeleviumAtom> hasDiscoveryYear "1955" 
+	<http://www.co-ode.org/roberts/atoms.owl#BohriumAtom> hasDiscoveryYear "1981" 
+	<http://www.co-ode.org/roberts/atoms.owl#BismuthAtom> hasDiscoveryYear "1600" 
+	<http://www.co-ode.org/roberts/atoms.owl#UraniumAtom> hasDiscoveryYear "1789" 
+	<http://www.co-ode.org/roberts/atoms.owl#BoronAtom> hasDiscoveryYear "1808" 
+	<http://www.co-ode.org/roberts/atoms.owl#ArsenicAtom> hasDiscoveryYear "1600" 
+	<http://www.co-ode.org/roberts/atoms.owl#RubidiumAtom> hasDiscoveryYear "1861" 
+	<http://www.co-ode.org/roberts/atoms.owl#TechnetiumAtom> hasDiscoveryYear "1939" 
+	<http://www.co-ode.org/roberts/atoms.owl#RadiumAtom> hasDiscoveryYear "1898" 
+	<http://www.co-ode.org/roberts/atoms.owl#StrontiumAtom> hasDiscoveryYear "1808" 
+	<http://www.co-ode.org/roberts/atoms.owl#TitaniumAtom> hasDiscoveryYear "1791" 
+	<http://www.co-ode.org/roberts/atoms.owl#SilverAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#ManganeseAtom> hasDiscoveryYear "1774" 
+	<http://www.co-ode.org/roberts/atoms.owl#BariumAtom> hasDiscoveryYear "1808" 
+	<http://www.co-ode.org/roberts/atoms.owl#SamariumAtom> hasDiscoveryYear "1853" 
+	<http://www.co-ode.org/roberts/atoms.owl#MeitneriumAtom> hasDiscoveryYear "1982" 
+	<http://www.co-ode.org/roberts/atoms.owl#CuriumAtom> hasDiscoveryYear "1944" 
+	<http://www.co-ode.org/roberts/atoms.owl#EinsteiniumAtom> hasDiscoveryYear "1952" 
+	<http://www.co-ode.org/roberts/atoms.owl#SulfurAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#ErbiumAtom> hasDiscoveryYear "1842" 
+	<http://www.co-ode.org/roberts/atoms.owl#ThalliumAtom> hasDiscoveryYear "1861" 
+	<http://www.co-ode.org/roberts/atoms.owl#ActiniumAtom> hasDiscoveryYear "1899" 
+	<http://www.co-ode.org/roberts/atoms.owl#LanthanumAtom> hasDiscoveryYear "1839" 
+	<http://www.co-ode.org/roberts/atoms.owl#SodiumAtom> hasDiscoveryYear "1807" 
+	<http://www.co-ode.org/roberts/atoms.owl#XenonAtom> hasDiscoveryYear "1898" 
+	<http://www.co-ode.org/roberts/atoms.owl#ThuliumAtom> hasDiscoveryYear "1879" 
+	<http://www.co-ode.org/roberts/atoms.owl#UnuntriumAtom> hasDiscoveryYear "2003" 
+	<http://www.co-ode.org/roberts/atoms.owl#NiobiumAtom> hasDiscoveryYear "1801" 
+	<http://www.co-ode.org/roberts/atoms.owl#MolybdenumAtom> hasDiscoveryYear "1781" 
+	<http://www.co-ode.org/roberts/atoms.owl#RutheniumAtom> hasDiscoveryYear "1844" 
+	<http://www.co-ode.org/roberts/atoms.owl#IridiumAtom> hasDiscoveryYear "1804" 
+	<http://www.co-ode.org/roberts/atoms.owl#IndiumAtom> hasDiscoveryYear "1863" 
+	<http://www.co-ode.org/roberts/atoms.owl#RhodiumAtom> hasDiscoveryYear "1803" 
+	<http://www.co-ode.org/roberts/atoms.owl#CaliforniumAtom> hasDiscoveryYear "1950" 
+	<http://www.co-ode.org/roberts/atoms.owl#HassiumAtom> hasDiscoveryYear "1984" 
+	<http://www.co-ode.org/roberts/atoms.owl#YttriumAtom> hasDiscoveryYear "1794" 
+	<http://www.co-ode.org/roberts/atoms.owl#OxygenAtom> hasDiscoveryYear "1774" 
+	<http://www.co-ode.org/roberts/atoms.owl#KryptonAtom> hasDiscoveryYear "1898" 
+	<http://www.co-ode.org/roberts/atoms.owl#RadonAtom> hasDiscoveryYear "1900" 
+	<http://www.co-ode.org/roberts/atoms.owl#PraseodymiumAtom> hasDiscoveryYear "1885" 
+	<http://www.co-ode.org/roberts/atoms.owl#RutherfordiumAtom> hasDiscoveryYear "1964" 
+	<http://www.co-ode.org/roberts/atoms.owl#PotassiumAtom> hasDiscoveryYear "1807" 
+	<http://www.co-ode.org/roberts/atoms.owl#BromineAtom> hasDiscoveryYear "1826" 
+	<http://www.co-ode.org/roberts/atoms.owl#SeleniumAtom> hasDiscoveryYear "1818" 
+	<http://www.co-ode.org/roberts/atoms.owl#FermiumAtom> hasDiscoveryYear "1952" 
+	<http://www.co-ode.org/roberts/atoms.owl#AmericiumAtom> hasDiscoveryYear "1944" 
+	<http://www.co-ode.org/roberts/atoms.owl#TantalumAtom> hasDiscoveryYear "1802" 
+	<http://www.co-ode.org/roberts/atoms.owl#NeodymiumAtom> hasDiscoveryYear "1925" 
+	<http://www.co-ode.org/roberts/atoms.owl#NeonAtom> hasDiscoveryYear "1898" 
+	<http://www.co-ode.org/roberts/atoms.owl#FranciumAtom> hasDiscoveryYear "1939" 
+	<http://www.co-ode.org/roberts/atoms.owl#ScandiumAtom> hasDiscoveryYear "1879" 
+	<http://www.co-ode.org/roberts/atoms.owl#GermaniumAtom> hasDiscoveryYear "1886" 
+	<http://www.co-ode.org/roberts/atoms.owl#DubniumAtom> hasDiscoveryYear "1968" 
+	<http://www.co-ode.org/roberts/atoms.owl#GalliumAtom> hasDiscoveryYear "1875" 
+	<http://www.co-ode.org/roberts/atoms.owl#HeliumAtom> hasDiscoveryYear "1895" 
+	<http://www.co-ode.org/roberts/atoms.owl#ChlorineAtom> hasDiscoveryYear "1774" 
+	<http://www.co-ode.org/roberts/atoms.owl#VanadiumAtom> hasDiscoveryYear "1830" 
+	<http://www.co-ode.org/roberts/atoms.owl#CarbonAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#PhosphorusAtom> hasDiscoveryYear "1669" 
+	<http://www.co-ode.org/roberts/atoms.owl#LeadAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#LawrenciumAtom> hasDiscoveryYear "1961" 
+	<http://www.co-ode.org/roberts/atoms.owl#TerbiumAtom> hasDiscoveryYear "1863" 
+	<http://www.co-ode.org/roberts/atoms.owl#PalladiumAtom> hasDiscoveryYear "1803" 
+	<http://www.co-ode.org/roberts/atoms.owl#SeaborgiumAtom> hasDiscoveryYear "1974" 
+	<http://www.co-ode.org/roberts/atoms.owl#HydrogenAtom> hasDiscoveryYear "1766" 
+	<http://www.co-ode.org/roberts/atoms.owl#DysprosiumAtom> hasDiscoveryYear "1886" 
+	<http://www.co-ode.org/roberts/atoms.owl#NitrogenAtom> hasDiscoveryYear "1772" 
+	<http://www.co-ode.org/roberts/atoms.owl#OsmiumAtom> hasDiscoveryYear "1804" 
+	<http://www.co-ode.org/roberts/atoms.owl#UnunseptiumAtom> hasDiscoveryYear "2010" 
+	<http://www.co-ode.org/roberts/atoms.owl#ZirconiumAtom> hasDiscoveryYear "1789" 
+	<http://www.co-ode.org/roberts/atoms.owl#CadmiumAtom> hasDiscoveryYear "1817" 
+	<http://www.co-ode.org/roberts/atoms.owl#LithiumAtom> hasDiscoveryYear "1817" 
+	<http://www.co-ode.org/roberts/atoms.owl#YtterbiumAtom> hasDiscoveryYear "1878" 
+	<http://www.co-ode.org/roberts/atoms.owl#RoentgeniumAtom> hasDiscoveryYear "1994" 
+	<http://www.co-ode.org/roberts/atoms.owl#GadoliniumAtom> hasDiscoveryYear "1880" 
+	<http://www.co-ode.org/roberts/atoms.owl#TungstenAtom> hasDiscoveryYear "1783" 
+	<http://www.co-ode.org/roberts/atoms.owl#BerylliumAtom> hasDiscoveryYear "1797" 
+	<http://www.co-ode.org/roberts/atoms.owl#HolmiumAtom> hasDiscoveryYear "1879" 
+	<http://www.co-ode.org/roberts/atoms.owl#CeriumAtom> hasDiscoveryYear "1803" 
+	<http://www.co-ode.org/roberts/atoms.owl#UnunoctiumAtom> hasDiscoveryYear "2005" 
+	<http://www.co-ode.org/roberts/atoms.owl#GoldAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#ChromiumAtom> hasDiscoveryYear "1798" 
+	<http://www.co-ode.org/roberts/atoms.owl#ProtactiniumAtom> hasDiscoveryYear "1913" 
+	<http://www.co-ode.org/roberts/atoms.owl#CalciumAtom> hasDiscoveryYear "1808" 
+	<http://www.co-ode.org/roberts/atoms.owl#CopperAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#DarmstadtiumAtom> hasDiscoveryYear "1994" 
+	<http://www.co-ode.org/roberts/atoms.owl#EuropiumAtom> hasDiscoveryYear "1890" 
+	<http://www.co-ode.org/roberts/atoms.owl#IodineAtom> hasDiscoveryYear "1811" 
+	<http://www.co-ode.org/roberts/atoms.owl#PromethiumAtom> hasDiscoveryYear "1945" 
+	<http://www.co-ode.org/roberts/atoms.owl#AluminumAtom> hasDiscoveryYear "1825" 
+	<http://www.co-ode.org/roberts/atoms.owl#UnunpentiumAtom> hasDiscoveryYear "2003" 
+	<http://www.co-ode.org/roberts/atoms.owl#CoperniciumAtom> hasDiscoveryYear "1996" 
+	<http://www.co-ode.org/roberts/atoms.owl#ThoriumAtom> hasDiscoveryYear "1829" 
+	<http://www.co-ode.org/roberts/atoms.owl#CesiumAtom> hasDiscoveryYear "1860" 
+	<http://www.co-ode.org/roberts/atoms.owl#NeptuniumAtom> hasDiscoveryYear "1940" 
+	<http://www.co-ode.org/roberts/atoms.owl#TinAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#LivermoriumAtom> hasDiscoveryYear "2000" 
+	<http://www.co-ode.org/roberts/atoms.owl#NobeliumAtom> hasDiscoveryYear "1966" 
+	<http://www.co-ode.org/roberts/atoms.owl#CobaltAtom> hasDiscoveryYear "1737" 
+	<http://www.co-ode.org/roberts/atoms.owl#RheniumAtom> hasDiscoveryYear "1925" 
+	<http://www.co-ode.org/roberts/atoms.owl#LutetiumAtom> hasDiscoveryYear "1907" 
+	<http://www.co-ode.org/roberts/atoms.owl#SiliconAtom> hasDiscoveryYear "1824" 
+	<http://www.co-ode.org/roberts/atoms.owl#NickelAtom> hasDiscoveryYear "1751" 
+	<http://www.co-ode.org/roberts/atoms.owl#FluorineAtom> hasDiscoveryYear "1886" 
+	<http://www.co-ode.org/roberts/atoms.owl#MercuryAtom> hasDiscoveryYear "0" 
+	<http://www.co-ode.org/roberts/atoms.owl#ArgonAtom> hasDiscoveryYear "1894" 
+	<http://www.co-ode.org/roberts/atoms.owl#FleroviumAtom> hasDiscoveryYear "1999" 
+	<http://www.co-ode.org/roberts/atoms.owl#BerkeliumAtom> hasDiscoveryYear "1949" 
+	<http://www.co-ode.org/roberts/atoms.owl#AstatineAtom> hasDiscoveryYear "1940" 
+	<http://www.co-ode.org/roberts/atoms.owl#ZincAtom> hasDiscoveryYear "1600" 
+	<http://www.co-ode.org/roberts/atoms.owl#MagnesiumAtom> hasDiscoveryYear "1808" 
+	<http://www.co-ode.org/roberts/atoms.owl#PlutoniumAtom> hasDiscoveryYear "1940" 
+	<http://www.co-ode.org/roberts/atoms.owl#PoloniumAtom> hasDiscoveryYear "1898" 
+?cluster_1 SubClassOf hasAtomicNumber value "?constant"^^string
+	 Instantiations: (106)
+	CopperAtom SubClassOf hasAtomicNumber value 29 
+	TantalumAtom SubClassOf hasAtomicNumber value 73 
+	TelluriumAtom SubClassOf hasAtomicNumber value 52 
+	YtterbiumAtom SubClassOf hasAtomicNumber value 70 
+	SeleniumAtom SubClassOf hasAtomicNumber value 34 
+	ThuliumAtom SubClassOf hasAtomicNumber value 69 
+	DysprosiumAtom SubClassOf hasAtomicNumber value 66 
+	LawrenciumAtom SubClassOf hasAtomicNumber value 103 
+	RubidiumAtom SubClassOf hasAtomicNumber value 37 
+	ProtactiniumAtom SubClassOf hasAtomicNumber value 91 
+	TitaniumAtom SubClassOf hasAtomicNumber value 22 
+	CoperniciumAtom SubClassOf hasAtomicNumber value 112 
+	LanthanumAtom SubClassOf hasAtomicNumber value 57 
+	DubniumAtom SubClassOf hasAtomicNumber value 105 
+	CaliforniumAtom SubClassOf hasAtomicNumber value 98 
+	CuriumAtom SubClassOf hasAtomicNumber value 96 
+	PromethiumAtom SubClassOf hasAtomicNumber value 61 
+	LivermoriumAtom SubClassOf hasAtomicNumber value 116 
+	HeliumAtom SubClassOf hasAtomicNumber value 2 
+	RoentgeniumAtom SubClassOf hasAtomicNumber value 111 
+	RadiumAtom SubClassOf hasAtomicNumber value 88 
+	PhosphorusAtom SubClassOf hasAtomicNumber value 15 
+	MeitneriumAtom SubClassOf hasAtomicNumber value 109 
+	CadmiumAtom SubClassOf hasAtomicNumber value 48 
+	ChlorineAtom SubClassOf hasAtomicNumber value 17 
+	HafniumAtom SubClassOf hasAtomicNumber value 72 
+	IodineAtom SubClassOf hasAtomicNumber value 53 
+	NeonAtom SubClassOf hasAtomicNumber value 10 
+	IronAtom SubClassOf hasAtomicNumber value 26 
+	PoloniumAtom SubClassOf hasAtomicNumber value 84 
+	BerkeliumAtom SubClassOf hasAtomicNumber value 97 
+	RhodiumAtom SubClassOf hasAtomicNumber value 45 
+	AmericiumAtom SubClassOf hasAtomicNumber value 95 
+	ErbiumAtom SubClassOf hasAtomicNumber value 68 
+	EinsteiniumAtom SubClassOf hasAtomicNumber value 99 
+	CeriumAtom SubClassOf hasAtomicNumber value 58 
+	UnunpentiumAtom SubClassOf hasAtomicNumber value 115 
+	TinAtom SubClassOf hasAtomicNumber value 50 
+	SilverAtom SubClassOf hasAtomicNumber value 47 
+	OxygenAtom SubClassOf hasAtomicNumber value 8 
+	TungstenAtom SubClassOf hasAtomicNumber value 74 
+	HassiumAtom SubClassOf hasAtomicNumber value 108 
+	MendeleviumAtom SubClassOf hasAtomicNumber value 101 
+	SamariumAtom SubClassOf hasAtomicNumber value 62 
+	PlutoniumAtom SubClassOf hasAtomicNumber value 94 
+	CesiumAtom SubClassOf hasAtomicNumber value 55 
+	YttriumAtom SubClassOf hasAtomicNumber value 39 
+	PraseodymiumAtom SubClassOf hasAtomicNumber value 59 
+	CarbonAtom SubClassOf hasAtomicNumber value 6 
+	UraniumAtom SubClassOf hasAtomicNumber value 92 
+	CalciumAtom SubClassOf hasAtomicNumber value 20 
+	BohriumAtom SubClassOf hasAtomicNumber value 107 
+	PlatinumAtom SubClassOf hasAtomicNumber value 78 
+	EuropiumAtom SubClassOf hasAtomicNumber value 63 
+	ActiniumAtom SubClassOf hasAtomicNumber value 89 
+	ManganeseAtom SubClassOf hasAtomicNumber value 25 
+	ThalliumAtom SubClassOf hasAtomicNumber value 81 
+	GalliumAtom SubClassOf hasAtomicNumber value 31 
+	MercuryAtom SubClassOf hasAtomicNumber value 80 
+	ZincAtom SubClassOf hasAtomicNumber value 30 
+	FranciumAtom SubClassOf hasAtomicNumber value 87 
+	StrontiumAtom SubClassOf hasAtomicNumber value 38 
+	KryptonAtom SubClassOf hasAtomicNumber value 36 
+	PotassiumAtom SubClassOf hasAtomicNumber value 19 
+	GoldAtom SubClassOf hasAtomicNumber value 79 
+	RheniumAtom SubClassOf hasAtomicNumber value 75 
+	RutheniumAtom SubClassOf hasAtomicNumber value 44 
+	LithiumAtom SubClassOf hasAtomicNumber value 3 
+	RadonAtom SubClassOf hasAtomicNumber value 86 
+	SiliconAtom SubClassOf hasAtomicNumber value 14 
+	SeaborgiumAtom SubClassOf hasAtomicNumber value 106 
+	IndiumAtom SubClassOf hasAtomicNumber value 49 
+	UnunoctiumAtom SubClassOf hasAtomicNumber value 118 
+	MagnesiumAtom SubClassOf hasAtomicNumber value 12 
+	FleroviumAtom SubClassOf hasAtomicNumber value 114 
+	ZirconiumAtom SubClassOf hasAtomicNumber value 40 
+	NiobiumAtom SubClassOf hasAtomicNumber value 41 
+	GadoliniumAtom SubClassOf hasAtomicNumber value 64 
+	NitrogenAtom SubClassOf hasAtomicNumber value 7 
+	OsmiumAtom SubClassOf hasAtomicNumber value 76 
+	GermaniumAtom SubClassOf hasAtomicNumber value 32 
+	CobaltAtom SubClassOf hasAtomicNumber value 27 
+	IridiumAtom SubClassOf hasAtomicNumber value 77 
+	FluorineAtom SubClassOf hasAtomicNumber value 9 
+	RutherfordiumAtom SubClassOf hasAtomicNumber value 104 
+	MolybdenumAtom SubClassOf hasAtomicNumber value 42 
+	NickelAtom SubClassOf hasAtomicNumber value 28 
+	LutetiumAtom SubClassOf hasAtomicNumber value 71 
+	TerbiumAtom SubClassOf hasAtomicNumber value 65 
+	UnunseptiumAtom SubClassOf hasAtomicNumber value 117 
+	XenonAtom SubClassOf hasAtomicNumber value 54 
+	TechnetiumAtom SubClassOf hasAtomicNumber value 43 
+	NobeliumAtom SubClassOf hasAtomicNumber value 102 
+	PalladiumAtom SubClassOf hasAtomicNumber value 46 
+	FermiumAtom SubClassOf hasAtomicNumber value 100 
+	LeadAtom SubClassOf hasAtomicNumber value 82 
+	UnuntriumAtom SubClassOf hasAtomicNumber value 111 
+	ChromiumAtom SubClassOf hasAtomicNumber value 24 
+	NeodymiumAtom SubClassOf hasAtomicNumber value 60 
+	ThoriumAtom SubClassOf hasAtomicNumber value 90 
+	NeptuniumAtom SubClassOf hasAtomicNumber value 93 
+	DarmstadtiumAtom SubClassOf hasAtomicNumber value 110 
+	HolmiumAtom SubClassOf hasAtomicNumber value 67 
+	SodiumAtom SubClassOf hasAtomicNumber value 11 
+	HydrogenAtom SubClassOf hasAtomicNumber value 1 
+	ScandiumAtom SubClassOf hasAtomicNumber value 21 
+?cluster_1 SubClassOf ?DomainEntity_1
+	 Instantiations: (44)
+	DubniumAtom SubClassOf Atom 
+	ThuliumAtom SubClassOf Atom 
+	LanthanumAtom SubClassOf Atom 
+	RoentgeniumAtom SubClassOf Atom 
+	ActiniumAtom SubClassOf Atom 
+	MendeleviumAtom SubClassOf Atom 
+	EuropiumAtom SubClassOf Atom 
+	LutetiumAtom SubClassOf Atom 
+	TerbiumAtom SubClassOf Atom 
+	BerkeliumAtom SubClassOf Atom 
+	BohriumAtom SubClassOf Atom 
+	EinsteiniumAtom SubClassOf Atom 
+	DarmstadtiumAtom SubClassOf Atom 
+	PraseodymiumAtom SubClassOf Atom 
+	UraniumAtom SubClassOf Atom 
+	UnunpentiumAtom SubClassOf Atom 
+	CeriumAtom SubClassOf Atom 
+	NeptuniumAtom SubClassOf Atom 
+	PlutoniumAtom SubClassOf Atom 
+	FleroviumAtom SubClassOf Atom 
+	UnunoctiumAtom SubClassOf Atom 
+	ThoriumAtom SubClassOf Atom 
+	PromethiumAtom SubClassOf Atom 
+	LivermoriumAtom SubClassOf Atom 
+	ProtactiniumAtom SubClassOf Atom 
+	NeodymiumAtom SubClassOf Atom 
+	LawrenciumAtom SubClassOf Atom 
+	CuriumAtom SubClassOf Atom 
+	UnuntriumAtom SubClassOf Atom 
+	CoperniciumAtom SubClassOf Atom 
+	YtterbiumAtom SubClassOf Atom 
+	DysprosiumAtom SubClassOf Atom 
+	AmericiumAtom SubClassOf Atom 
+	HolmiumAtom SubClassOf Atom 
+	CaliforniumAtom SubClassOf Atom 
+	AntimonyAtom SubClassOf Atom 
+	ErbiumAtom SubClassOf Atom 
+	SamariumAtom SubClassOf Atom 
+	SeaborgiumAtom SubClassOf Atom 
+	NobeliumAtom SubClassOf Atom 
+	MeitneriumAtom SubClassOf Atom 
+	UnunseptiumAtom SubClassOf Atom 
+	FermiumAtom SubClassOf Atom 
+	GadoliniumAtom SubClassOf Atom 
+?cluster_2 EquivalentTo ?cluster_1_disjunction
+	 Instantiations: (17)
+	ProtactiniumPraseodymiumFamily EquivalentTo PraseodymiumAtom or ProtactiniumAtom 
+	Lanthanides EquivalentTo CeriumAtom or DysprosiumAtom or ErbiumAtom or EuropiumAtom or GadoliniumAtom or HolmiumAtom or LanthanumAtom or LutetiumAtom or NeodymiumAtom or PraseodymiumAtom or PromethiumAtom or SamariumAtom or TerbiumAtom or ThuliumAtom or YtterbiumAtom 
+	NobeliumYtterbiumFamily EquivalentTo NobeliumAtom or YtterbiumAtom 
+	Actinide EquivalentTo ActiniumAtom or AmericiumAtom or BerkeliumAtom or CaliforniumAtom or CuriumAtom or EinsteiniumAtom or FermiumAtom or LawrenciumAtom or MendeleviumAtom or NeptuniumAtom or NobeliumAtom or PlutoniumAtom or ProtactiniumAtom or ThoriumAtom or UraniumAtom 
+	LawrenciumLutetiumFamily EquivalentTo LawrenciumAtom or LutetiumAtom 
+	BerkeliumTerbiumFamily EquivalentTo BerkeliumAtom or TerbiumAtom 
+	CaliforniumDysprosiumFamily EquivalentTo CaliforniumAtom or DysprosiumAtom 
+	MendeleviumThuliumFamily EquivalentTo MendeleviumAtom or ThuliumAtom 
+	ThoriumCeriumFamily EquivalentTo CeriumAtom or ThoriumAtom 
+	AmericiumEuropiumFamily EquivalentTo AmericiumAtom or EuropiumAtom 
+	ActiniumLanthanumFamily EquivalentTo ActiniumAtom or LanthanumAtom 
+	EinsteiniumHolmiumFamily EquivalentTo EinsteiniumAtom or HolmiumAtom 
+	UraniumNeodymiumFamily EquivalentTo NeodymiumAtom or UraniumAtom 
+	CuriumGadoliniumFamily EquivalentTo CuriumAtom or GadoliniumAtom 
+	FermiumErbiumFamily EquivalentTo ErbiumAtom or FermiumAtom 
+	NeptuniumPromethiumFamily EquivalentTo NeptuniumAtom or PromethiumAtom 
+	PlutoniumSamariumFamily EquivalentTo PlutoniumAtom or SamariumAtom 
+?cluster_1.IRI comment "?constant"^^string
+	 Instantiations: (15)
+	<http://www.co-ode.org/roberts/atoms.owl#UnunpentiumAtom> comment "5f14 6d10 7s2 7p3" 
+	<http://www.co-ode.org/roberts/atoms.owl#UnuntriumAtom> comment "5f14 6d10 7s2 7p1" 
+	<http://www.co-ode.org/roberts/atoms.owl#DarmstadtiumAtom> comment "5f14 6d8 7s2" 
+	<http://www.co-ode.org/roberts/atoms.owl#ActiniumAtom> comment "6d1 7s2" 
+	<http://www.co-ode.org/roberts/atoms.owl#FleroviumAtom> comment "5f14 6d10 7s2 7p2" 
+	<http://www.co-ode.org/roberts/atoms.owl#SeaborgiumAtom> comment "5f14 6d4 7s2" 
+	<http://www.co-ode.org/roberts/atoms.owl#BohriumAtom> comment "5f14 6d5 7s2" 
+	<http://www.co-ode.org/roberts/atoms.owl#DubniumAtom> comment "5f14 6d3 7s2" 
+	<http://www.co-ode.org/roberts/atoms.owl#UnunoctiumAtom> comment "5f14 6d10 7s2 7p6" 
+	<http://www.co-ode.org/roberts/atoms.owl#UnunseptiumAtom> comment "5f14 6d10 7s2 7p5" 
+	<http://www.co-ode.org/roberts/atoms.owl#CoperniciumAtom> comment "5f14 6d10 7s2" 
+	<http://www.co-ode.org/roberts/atoms.owl#LivermoriumAtom> comment "5f14 6d10 7s2 7p4" 
+	<http://www.co-ode.org/roberts/atoms.owl#MeitneriumAtom> comment "5f14 6d7 7s2" 
+	<http://www.co-ode.org/roberts/atoms.owl#RoentgeniumAtom> comment "5f14 6d9 7s2" 
+	<http://www.co-ode.org/roberts/atoms.owl#ThoriumAtom> comment "6d2 7s2" 
+?cluster_1 SubClassOf ?cluster_5 only (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string))
+	 Instantiations: (6)
+	StrontiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 5)) 
+	BariumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 6)) 
+	MagnesiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 3)) 
+	BerylliumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 2)) 
+	HeliumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 1)) 
+	RadiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 7)) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 1 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (5)
+	CesiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 6))) 
+	HydrogenAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 1))) 
+	SodiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 3))) 
+	LithiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 2))) 
+	FranciumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 7))) 
+?cluster_1 SubClassOf ?cluster_5 only (?expression_1_disjunction)
+	 Instantiations: (4)
+	TitaniumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 2 Electron) and (hasOrder value 3)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 4))) 
+	CarbonAtom SubClassOf hasValenceElectronShell only ((PShell and (contains exactly 2 Electron) and (hasOrder value 2)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 2))) 
+	ZirconiumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 2 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 5))) 
+	SiliconAtom SubClassOf hasValenceElectronShell only ((PShell and (contains exactly 2 Electron) and (hasOrder value 3)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 3))) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (3)
+	StrontiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 5))) 
+	MagnesiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 3))) 
+	HeliumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 1))) 
+?cluster_1 SubClassOf ?cluster_5 only ((FShell and (?cluster_5 exactly 14 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 5 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (2)
+	BohriumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 6)) or (FShell and (contains exactly 14 Electron) and (hasOrder value 5)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 7))) 
+	RheniumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 5)) or (FShell and (contains exactly 14 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 6))) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 1 ?DomainEntity_1) and (hasOrder value "?constant"^^string))) and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 10 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (1)
+	CopperAtom SubClassOf Atom and (hasValenceElectronShell some (DShell and (contains exactly 10 Electron) and (hasOrder value 3))) and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 4))) 
+
+Cluster ?cluster_2:CLASS
+Cluster size: 18
+[EinsteiniumHolmiumFamily, Actinide, FermiumErbiumFamily, NobeliumYtterbiumFamily, AmericiumEuropiumFamily, CuriumGadoliniumFamily, UraniumNeodymiumFamily, BerkeliumTerbiumFamily, MendeleviumThuliumFamily, LawrenciumLutetiumFamily, NeptuniumPromethiumFamily, ActiniumLanthanumFamily, CaliforniumDysprosiumFamily, ProtactiniumPraseodymiumFamily, ThoriumCeriumFamily, Inner transition metal atom, PlutoniumSamariumFamily, Lanthanides, ]
+Generalisations:
+?cluster_2 EquivalentTo ?cluster_1_disjunction
+	 Instantiations: (17)
+	ProtactiniumPraseodymiumFamily EquivalentTo PraseodymiumAtom or ProtactiniumAtom 
+	Lanthanides EquivalentTo CeriumAtom or DysprosiumAtom or ErbiumAtom or EuropiumAtom or GadoliniumAtom or HolmiumAtom or LanthanumAtom or LutetiumAtom or NeodymiumAtom or PraseodymiumAtom or PromethiumAtom or SamariumAtom or TerbiumAtom or ThuliumAtom or YtterbiumAtom 
+	NobeliumYtterbiumFamily EquivalentTo NobeliumAtom or YtterbiumAtom 
+	Actinide EquivalentTo ActiniumAtom or AmericiumAtom or BerkeliumAtom or CaliforniumAtom or CuriumAtom or EinsteiniumAtom or FermiumAtom or LawrenciumAtom or MendeleviumAtom or NeptuniumAtom or NobeliumAtom or PlutoniumAtom or ProtactiniumAtom or ThoriumAtom or UraniumAtom 
+	LawrenciumLutetiumFamily EquivalentTo LawrenciumAtom or LutetiumAtom 
+	BerkeliumTerbiumFamily EquivalentTo BerkeliumAtom or TerbiumAtom 
+	CaliforniumDysprosiumFamily EquivalentTo CaliforniumAtom or DysprosiumAtom 
+	MendeleviumThuliumFamily EquivalentTo MendeleviumAtom or ThuliumAtom 
+	ThoriumCeriumFamily EquivalentTo CeriumAtom or ThoriumAtom 
+	AmericiumEuropiumFamily EquivalentTo AmericiumAtom or EuropiumAtom 
+	ActiniumLanthanumFamily EquivalentTo ActiniumAtom or LanthanumAtom 
+	EinsteiniumHolmiumFamily EquivalentTo EinsteiniumAtom or HolmiumAtom 
+	UraniumNeodymiumFamily EquivalentTo NeodymiumAtom or UraniumAtom 
+	CuriumGadoliniumFamily EquivalentTo CuriumAtom or GadoliniumAtom 
+	FermiumErbiumFamily EquivalentTo ErbiumAtom or FermiumAtom 
+	NeptuniumPromethiumFamily EquivalentTo NeptuniumAtom or PromethiumAtom 
+	PlutoniumSamariumFamily EquivalentTo PlutoniumAtom or SamariumAtom 
+?cluster_2.IRI hasName "?constant"^^string
+	 Instantiations: (3)
+	<http://www.co-ode.org/roberts/atoms.owl#ActiniumLanthanumFamily> hasName "Actinium and lanthanum family" 
+	<http://www.co-ode.org/roberts/atoms.owl#AmericiumEuropiumFamily> hasName "Americium and Europium family" 
+	<http://www.co-ode.org/roberts/atoms.owl#BerkeliumTerbiumFamily> hasName "Kerkelium and Turbium family" 
+?cluster_2 EquivalentTo ?cluster_2_disjunction
+	 Instantiations: (1)
+	Inner transition metal atom EquivalentTo Actinide or Lanthanides 
+
+Cluster ?DomainEntity:CLASS
+Cluster size: 6
+[NonMetal, Metalloid, LiquidState, SolidState, Metal, GasState, ]
+Generalisations:
+?cluster_1 SubClassOf ?cluster_4 some ?DomainEntity
+	 Instantiations: (203)
+	CopperAtom SubClassOf hasMetalness some Metal 
+	ChromiumAtom SubClassOf hasPhysicalState some SolidState 
+	GoldAtom SubClassOf hasPhysicalState some SolidState 
+	SilverAtom SubClassOf hasMetalness some Metal 
+	BromineAtom SubClassOf hasPhysicalState some LiquidState 
+	BohriumAtom SubClassOf hasPhysicalState some SolidState 
+	NickelAtom SubClassOf hasMetalness some Metal 
+	CesiumAtom SubClassOf hasPhysicalState some SolidState 
+	CobaltAtom SubClassOf hasMetalness some Metal 
+	MagnesiumAtom SubClassOf hasPhysicalState some SolidState 
+	RubidiumAtom SubClassOf hasMetalness some Metal 
+	LanthanumAtom SubClassOf hasMetalness some Metal 
+	CesiumAtom SubClassOf hasMetalness some Metal 
+	CobaltAtom SubClassOf hasPhysicalState some SolidState 
+	StrontiumAtom SubClassOf hasPhysicalState some SolidState 
+	BerkeliumAtom SubClassOf hasPhysicalState some SolidState 
+	GadoliniumAtom SubClassOf hasMetalness some Metal 
+	PlatinumAtom SubClassOf hasPhysicalState some SolidState 
+	MercuryAtom SubClassOf hasPhysicalState some LiquidState 
+	ProtactiniumAtom SubClassOf hasMetalness some Metal 
+	RheniumAtom SubClassOf hasMetalness some Metal 
+	YttriumAtom SubClassOf hasPhysicalState some SolidState 
+	ZirconiumAtom SubClassOf hasMetalness some Metal 
+	HolmiumAtom SubClassOf hasPhysicalState some SolidState 
+	IridiumAtom SubClassOf hasPhysicalState some SolidState 
+	PhosphorusAtom SubClassOf hasPhysicalState some SolidState 
+	TinAtom SubClassOf hasPhysicalState some SolidState 
+	RubidiumAtom SubClassOf hasPhysicalState some SolidState 
+	FermiumAtom SubClassOf hasMetalness some Metal 
+	CoperniciumAtom SubClassOf hasPhysicalState some SolidState 
+	PromethiumAtom SubClassOf hasMetalness some Metal 
+	RutherfordiumAtom SubClassOf hasMetalness some Metal 
+	ThalliumAtom SubClassOf hasMetalness some Metal 
+	RoentgeniumAtom SubClassOf hasMetalness some Metal 
+	PlutoniumAtom SubClassOf hasMetalness some Metal 
+	NeonAtom SubClassOf hasMetalness some NonMetal 
+	RadonAtom SubClassOf hasMetalness some NonMetal 
+	FranciumAtom SubClassOf hasMetalness some Metal 
+	GadoliniumAtom SubClassOf hasPhysicalState some SolidState 
+	EinsteiniumAtom SubClassOf hasPhysicalState some SolidState 
+	OxygenAtom SubClassOf hasPhysicalState some GasState 
+	IronAtom SubClassOf hasMetalness some Metal 
+	AstatineAtom SubClassOf hasMetalness some NonMetal 
+	SamariumAtom SubClassOf hasPhysicalState some SolidState 
+	FranciumAtom SubClassOf hasPhysicalState some SolidState 
+	SodiumAtom SubClassOf hasMetalness some Metal 
+	BismuthAtom SubClassOf hasMetalness some Metal 
+	PotassiumAtom SubClassOf hasPhysicalState some SolidState 
+	DarmstadtiumAtom SubClassOf hasMetalness some Metal 
+	ActiniumAtom SubClassOf hasMetalness some Metal 
+	CeriumAtom SubClassOf hasPhysicalState some SolidState 
+	CarbonAtom SubClassOf hasMetalness some NonMetal 
+	MolybdenumAtom SubClassOf hasMetalness some Metal 
+	PhosphorusAtom SubClassOf hasMetalness some NonMetal 
+	RadiumAtom SubClassOf hasPhysicalState some SolidState 
+	ArsenicAtom SubClassOf hasPhysicalState some SolidState 
+	BismuthAtom SubClassOf hasPhysicalState some SolidState 
+	CadmiumAtom SubClassOf hasPhysicalState some SolidState 
+	ScandiumAtom SubClassOf hasPhysicalState some SolidState 
+	HeliumAtom SubClassOf hasMetalness some NonMetal 
+	SulfurAtom SubClassOf hasPhysicalState some SolidState 
+	DysprosiumAtom SubClassOf hasPhysicalState some SolidState 
+	CuriumAtom SubClassOf hasPhysicalState some SolidState 
+	IronAtom SubClassOf hasPhysicalState some SolidState 
+	DubniumAtom SubClassOf hasPhysicalState some SolidState 
+	NiobiumAtom SubClassOf hasMetalness some Metal 
+	NitrogenAtom SubClassOf hasPhysicalState some GasState 
+	DysprosiumAtom SubClassOf hasMetalness some Metal 
+	MolybdenumAtom SubClassOf hasPhysicalState some SolidState 
+	RutheniumAtom SubClassOf hasPhysicalState some SolidState 
+	MeitneriumAtom SubClassOf hasPhysicalState some SolidState 
+	IridiumAtom SubClassOf hasMetalness some Metal 
+	LithiumAtom SubClassOf hasMetalness some Metal 
+	XenonAtom SubClassOf hasPhysicalState some GasState 
+	ErbiumAtom SubClassOf hasPhysicalState some SolidState 
+	FluorineAtom SubClassOf hasPhysicalState some GasState 
+	CeriumAtom SubClassOf hasMetalness some Metal 
+	EinsteiniumAtom SubClassOf hasMetalness some Metal 
+	CarbonAtom SubClassOf hasPhysicalState some SolidState 
+	HafniumAtom SubClassOf hasPhysicalState some SolidState 
+	RoentgeniumAtom SubClassOf hasPhysicalState some SolidState 
+	YttriumAtom SubClassOf hasMetalness some Metal 
+	SiliconAtom SubClassOf hasPhysicalState some SolidState 
+	MendeleviumAtom SubClassOf hasMetalness some Metal 
+	ZincAtom SubClassOf hasMetalness some Metal 
+	AntimonyAtom SubClassOf hasMetalness some Metalloid 
+	HassiumAtom SubClassOf hasMetalness some Metal 
+	GalliumAtom SubClassOf hasMetalness some Metalloid 
+	ChlorineAtom SubClassOf hasMetalness some NonMetal 
+	IodineAtom SubClassOf hasMetalness some NonMetal 
+	BerylliumAtom SubClassOf hasMetalness some Metal 
+	CuriumAtom SubClassOf hasMetalness some Metal 
+	TungstenAtom SubClassOf hasMetalness some Metal 
+	UraniumAtom SubClassOf hasMetalness some Metal 
+	GermaniumAtom SubClassOf hasMetalness some Metalloid 
+	DarmstadtiumAtom SubClassOf hasPhysicalState some SolidState 
+	EuropiumAtom SubClassOf hasPhysicalState some SolidState 
+	PalladiumAtom SubClassOf hasMetalness some Metal 
+	OxygenAtom SubClassOf hasMetalness some NonMetal 
+	ChromiumAtom SubClassOf hasMetalness some Metal 
+	ThalliumAtom SubClassOf hasPhysicalState some SolidState 
+	NobeliumAtom SubClassOf hasMetalness some Metal 
+	HolmiumAtom SubClassOf hasMetalness some Metal 
+	HeliumAtom SubClassOf hasPhysicalState some GasState 
+	KryptonAtom SubClassOf hasPhysicalState some GasState 
+	FluorineAtom SubClassOf hasMetalness some NonMetal 
+	ArgonAtom SubClassOf hasMetalness some NonMetal 
+	YtterbiumAtom SubClassOf hasMetalness some Metal 
+	DubniumAtom SubClassOf hasMetalness some Metal 
+	ArsenicAtom SubClassOf hasMetalness some Metalloid 
+	GalliumAtom SubClassOf hasPhysicalState some SolidState 
+	RadiumAtom SubClassOf hasMetalness some Metal 
+	ManganeseAtom SubClassOf hasMetalness some Metal 
+	BoronAtom SubClassOf hasMetalness some Metalloid 
+	LawrenciumAtom SubClassOf hasMetalness some Metal 
+	NitrogenAtom SubClassOf hasMetalness some NonMetal 
+	LeadAtom SubClassOf hasMetalness some Metal 
+	GoldAtom SubClassOf hasMetalness some Metal 
+	StrontiumAtom SubClassOf hasMetalness some Metal 
+	NeptuniumAtom SubClassOf hasMetalness some Metal 
+	ThuliumAtom SubClassOf hasMetalness some Metal 
+	PoloniumAtom SubClassOf hasPhysicalState some SolidState 
+	RutheniumAtom SubClassOf hasMetalness some Metal 
+	NeonAtom SubClassOf hasPhysicalState some GasState 
+	RadonAtom SubClassOf hasPhysicalState some GasState 
+	AstatineAtom SubClassOf hasPhysicalState some SolidState 
+	HassiumAtom SubClassOf hasPhysicalState some SolidState 
+	IndiumAtom SubClassOf hasMetalness some Metal 
+	ZincAtom SubClassOf hasPhysicalState some SolidState 
+	AluminumAtom SubClassOf hasMetalness some Metal 
+	ThoriumAtom SubClassOf hasPhysicalState some SolidState 
+	CadmiumAtom SubClassOf hasMetalness some Metal 
+	TerbiumAtom SubClassOf hasMetalness some Metal 
+	FermiumAtom SubClassOf hasPhysicalState some SolidState 
+	ChlorineAtom SubClassOf hasPhysicalState some GasState 
+	IndiumAtom SubClassOf hasPhysicalState some SolidState 
+	SeleniumAtom SubClassOf hasMetalness some Metal 
+	BromineAtom SubClassOf hasMetalness some NonMetal 
+	EuropiumAtom SubClassOf hasMetalness some Metal 
+	BariumAtom SubClassOf hasPhysicalState some SolidState 
+	PoloniumAtom SubClassOf hasMetalness some Metal 
+	IodineAtom SubClassOf hasPhysicalState some SolidState 
+	RhodiumAtom SubClassOf hasMetalness some Metal 
+	TechnetiumAtom SubClassOf hasPhysicalState some SolidState 
+	VanadiumAtom SubClassOf hasPhysicalState some SolidState 
+	SeaborgiumAtom SubClassOf hasPhysicalState some SolidState 
+	CoperniciumAtom SubClassOf hasMetalness some Metal 
+	SeaborgiumAtom SubClassOf hasMetalness some Metal 
+	AmericiumAtom SubClassOf hasMetalness some Metal 
+	TelluriumAtom SubClassOf hasMetalness some Metalloid 
+	TantalumAtom SubClassOf hasPhysicalState some SolidState 
+	TitaniumAtom SubClassOf hasMetalness some Metal 
+	XenonAtom SubClassOf hasMetalness some NonMetal 
+	PlatinumAtom SubClassOf hasMetalness some Metal 
+	MendeleviumAtom SubClassOf hasPhysicalState some SolidState 
+	SamariumAtom SubClassOf hasMetalness some Metal 
+	MagnesiumAtom SubClassOf hasMetalness some Metal 
+	BerylliumAtom SubClassOf hasPhysicalState some SolidState 
+	AluminumAtom SubClassOf hasPhysicalState some SolidState 
+	ArgonAtom SubClassOf hasPhysicalState some GasState 
+	AmericiumAtom SubClassOf hasPhysicalState some SolidState 
+	LutetiumAtom SubClassOf hasMetalness some Metal 
+	CalciumAtom SubClassOf hasPhysicalState some SolidState 
+	BohriumAtom SubClassOf hasMetalness some Metal 
+	RutherfordiumAtom SubClassOf hasPhysicalState some SolidState 
+	MercuryAtom SubClassOf hasMetalness some Metal 
+	GermaniumAtom SubClassOf hasPhysicalState some SolidState 
+	PraseodymiumAtom SubClassOf hasMetalness some Metal 
+	SeleniumAtom SubClassOf hasPhysicalState some SolidState 
+	PalladiumAtom SubClassOf hasPhysicalState some SolidState 
+	RhodiumAtom SubClassOf hasPhysicalState some SolidState 
+	NeodymiumAtom SubClassOf hasMetalness some Metal 
+	SulfurAtom SubClassOf hasMetalness some NonMetal 
+	HydrogenAtom SubClassOf hasPhysicalState some GasState 
+	TinAtom SubClassOf hasMetalness some Metal 
+	BerkeliumAtom SubClassOf hasMetalness some Metal 
+	AntimonyAtom SubClassOf hasPhysicalState some SolidState 
+	VanadiumAtom SubClassOf hasMetalness some Metal 
+	RheniumAtom SubClassOf hasPhysicalState some SolidState 
+	LeadAtom SubClassOf hasPhysicalState some SolidState 
+	CalciumAtom SubClassOf hasMetalness some Metal 
+	SiliconAtom SubClassOf hasMetalness some Metalloid 
+	ManganeseAtom SubClassOf hasPhysicalState some SolidState 
+	KryptonAtom SubClassOf hasMetalness some NonMetal 
+	TelluriumAtom SubClassOf hasPhysicalState some SolidState 
+	OsmiumAtom SubClassOf hasPhysicalState some SolidState 
+	CaliforniumAtom SubClassOf hasPhysicalState some SolidState 
+	ActiniumAtom SubClassOf hasPhysicalState some SolidState 
+	ErbiumAtom SubClassOf hasMetalness some Metal 
+	MeitneriumAtom SubClassOf hasMetalness some Metal 
+	ScandiumAtom SubClassOf hasMetalness some Metal 
+	TitaniumAtom SubClassOf hasPhysicalState some SolidState 
+	PotassiumAtom SubClassOf hasMetalness some Metal 
+	BariumAtom SubClassOf hasMetalness some Metal 
+	NiobiumAtom SubClassOf hasPhysicalState some SolidState 
+	CopperAtom SubClassOf hasPhysicalState some SolidState 
+	BoronAtom SubClassOf hasPhysicalState some SolidState 
+	SodiumAtom SubClassOf hasPhysicalState some SolidState 
+	OsmiumAtom SubClassOf hasMetalness some Metal 
+	CaliforniumAtom SubClassOf hasMetalness some Metal 
+	ThoriumAtom SubClassOf hasMetalness some Metal 
+	NickelAtom SubClassOf hasPhysicalState some SolidState 
+	SilverAtom SubClassOf hasPhysicalState some SolidState 
+?DomainEntity SubClassOf ?DomainEntity_1
+	 Instantiations: (6)
+	LiquidState SubClassOf PhysicalState 
+	Metalloid SubClassOf Metalness 
+	NonMetal SubClassOf Metalness 
+	Metal SubClassOf Metalness 
+	GasState SubClassOf PhysicalState 
+	SolidState SubClassOf PhysicalState 
+ DisjointClasses: set(?DomainEntity.VALUES)
+	 Instantiations: (2)
+	 DisjointClasses: Metal, Metalloid, NonMetal 
+	 DisjointClasses: GasState, LiquidState, SolidState 
+?cluster_1 SubClassOf (?cluster_4 some ?DomainEntity) and (?cluster_5 only ((?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 5 ?DomainEntity_1) and (hasOrder value "?constant"^^string))))
+	 Instantiations: (1)
+	TechnetiumAtom SubClassOf (hasMetalness some Metal) and (hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 5)))) 
+
+Cluster ?DomainEntity_1:CLASS
+Cluster size: 5
+[Metalness, Electron, ElectronShell, Atom, PhysicalState, ]
+Generalisations:
+?cluster_1 SubClassOf ?DomainEntity_1
+	 Instantiations: (44)
+	DubniumAtom SubClassOf Atom 
+	ThuliumAtom SubClassOf Atom 
+	LanthanumAtom SubClassOf Atom 
+	RoentgeniumAtom SubClassOf Atom 
+	ActiniumAtom SubClassOf Atom 
+	MendeleviumAtom SubClassOf Atom 
+	EuropiumAtom SubClassOf Atom 
+	LutetiumAtom SubClassOf Atom 
+	TerbiumAtom SubClassOf Atom 
+	BerkeliumAtom SubClassOf Atom 
+	BohriumAtom SubClassOf Atom 
+	EinsteiniumAtom SubClassOf Atom 
+	DarmstadtiumAtom SubClassOf Atom 
+	PraseodymiumAtom SubClassOf Atom 
+	UraniumAtom SubClassOf Atom 
+	UnunpentiumAtom SubClassOf Atom 
+	CeriumAtom SubClassOf Atom 
+	NeptuniumAtom SubClassOf Atom 
+	PlutoniumAtom SubClassOf Atom 
+	FleroviumAtom SubClassOf Atom 
+	UnunoctiumAtom SubClassOf Atom 
+	ThoriumAtom SubClassOf Atom 
+	PromethiumAtom SubClassOf Atom 
+	LivermoriumAtom SubClassOf Atom 
+	ProtactiniumAtom SubClassOf Atom 
+	NeodymiumAtom SubClassOf Atom 
+	LawrenciumAtom SubClassOf Atom 
+	CuriumAtom SubClassOf Atom 
+	UnuntriumAtom SubClassOf Atom 
+	CoperniciumAtom SubClassOf Atom 
+	YtterbiumAtom SubClassOf Atom 
+	DysprosiumAtom SubClassOf Atom 
+	AmericiumAtom SubClassOf Atom 
+	HolmiumAtom SubClassOf Atom 
+	CaliforniumAtom SubClassOf Atom 
+	AntimonyAtom SubClassOf Atom 
+	ErbiumAtom SubClassOf Atom 
+	SamariumAtom SubClassOf Atom 
+	SeaborgiumAtom SubClassOf Atom 
+	NobeliumAtom SubClassOf Atom 
+	MeitneriumAtom SubClassOf Atom 
+	UnunseptiumAtom SubClassOf Atom 
+	FermiumAtom SubClassOf Atom 
+	GadoliniumAtom SubClassOf Atom 
+?cluster_1 SubClassOf ?cluster_5 only (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string))
+	 Instantiations: (6)
+	StrontiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 5)) 
+	BariumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 6)) 
+	MagnesiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 3)) 
+	BerylliumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 2)) 
+	HeliumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 1)) 
+	RadiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 7)) 
+?DomainEntity_1 SubClassOf DomainEntity
+	 Instantiations: (5)
+	PhysicalState SubClassOf DomainEntity 
+	Electron SubClassOf DomainEntity 
+	ElectronShell SubClassOf DomainEntity 
+	Metalness SubClassOf DomainEntity 
+	Atom SubClassOf DomainEntity 
+?cluster_1 SubClassOf ?cluster_5 only (?expression_1_disjunction)
+	 Instantiations: (4)
+	TitaniumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 2 Electron) and (hasOrder value 3)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 4))) 
+	CarbonAtom SubClassOf hasValenceElectronShell only ((PShell and (contains exactly 2 Electron) and (hasOrder value 2)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 2))) 
+	ZirconiumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 2 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 5))) 
+	SiliconAtom SubClassOf hasValenceElectronShell only ((PShell and (contains exactly 2 Electron) and (hasOrder value 3)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 3))) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (3)
+	StrontiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 5))) 
+	MagnesiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 3))) 
+	HeliumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 1))) 
+?cluster_1 SubClassOf ?cluster_5 only ((FShell and (?cluster_5 exactly 14 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 5 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (2)
+	BohriumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 6)) or (FShell and (contains exactly 14 Electron) and (hasOrder value 5)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 7))) 
+	RheniumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 5)) or (FShell and (contains exactly 14 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 6))) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 1 ?DomainEntity_1) and (hasOrder value "?constant"^^string))) and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 10 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (1)
+	CopperAtom SubClassOf Atom and (hasValenceElectronShell some (DShell and (contains exactly 10 Electron) and (hasOrder value 3))) and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 4))) 
+
+Cluster ?cluster_3:CLASS
+Cluster size: 3
+[DShell, SShell, PShell, ]
+Generalisations:
+?cluster_1 SubClassOf ?cluster_5 only (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string))
+	 Instantiations: (6)
+	StrontiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 5)) 
+	BariumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 6)) 
+	MagnesiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 3)) 
+	BerylliumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 2)) 
+	HeliumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 1)) 
+	RadiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 7)) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 1 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (5)
+	CesiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 6))) 
+	HydrogenAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 1))) 
+	SodiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 3))) 
+	LithiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 2))) 
+	FranciumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 7))) 
+?cluster_1 SubClassOf ?cluster_5 only (?expression_1_disjunction)
+	 Instantiations: (4)
+	TitaniumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 2 Electron) and (hasOrder value 3)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 4))) 
+	CarbonAtom SubClassOf hasValenceElectronShell only ((PShell and (contains exactly 2 Electron) and (hasOrder value 2)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 2))) 
+	ZirconiumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 2 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 5))) 
+	SiliconAtom SubClassOf hasValenceElectronShell only ((PShell and (contains exactly 2 Electron) and (hasOrder value 3)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 3))) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (3)
+	StrontiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 5))) 
+	MagnesiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 3))) 
+	HeliumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 1))) 
+?cluster_1 SubClassOf ?cluster_5 only ((FShell and (?cluster_5 exactly 14 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 5 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (2)
+	BohriumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 6)) or (FShell and (contains exactly 14 Electron) and (hasOrder value 5)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 7))) 
+	RheniumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 5)) or (FShell and (contains exactly 14 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 6))) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 1 ?DomainEntity_1) and (hasOrder value "?constant"^^string))) and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 10 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (1)
+	CopperAtom SubClassOf Atom and (hasValenceElectronShell some (DShell and (contains exactly 10 Electron) and (hasOrder value 3))) and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 4))) 
+
+Cluster ?cluster_4:OBJECTPROPERTY
+Cluster size: 2
+[hasMetalness, hasPhysicalState, ]
+Generalisations:
+?cluster_1 SubClassOf ?cluster_4 some ?DomainEntity
+	 Instantiations: (203)
+	CopperAtom SubClassOf hasMetalness some Metal 
+	ChromiumAtom SubClassOf hasPhysicalState some SolidState 
+	GoldAtom SubClassOf hasPhysicalState some SolidState 
+	SilverAtom SubClassOf hasMetalness some Metal 
+	BromineAtom SubClassOf hasPhysicalState some LiquidState 
+	BohriumAtom SubClassOf hasPhysicalState some SolidState 
+	NickelAtom SubClassOf hasMetalness some Metal 
+	CesiumAtom SubClassOf hasPhysicalState some SolidState 
+	CobaltAtom SubClassOf hasMetalness some Metal 
+	MagnesiumAtom SubClassOf hasPhysicalState some SolidState 
+	RubidiumAtom SubClassOf hasMetalness some Metal 
+	LanthanumAtom SubClassOf hasMetalness some Metal 
+	CesiumAtom SubClassOf hasMetalness some Metal 
+	CobaltAtom SubClassOf hasPhysicalState some SolidState 
+	StrontiumAtom SubClassOf hasPhysicalState some SolidState 
+	BerkeliumAtom SubClassOf hasPhysicalState some SolidState 
+	GadoliniumAtom SubClassOf hasMetalness some Metal 
+	PlatinumAtom SubClassOf hasPhysicalState some SolidState 
+	MercuryAtom SubClassOf hasPhysicalState some LiquidState 
+	ProtactiniumAtom SubClassOf hasMetalness some Metal 
+	RheniumAtom SubClassOf hasMetalness some Metal 
+	YttriumAtom SubClassOf hasPhysicalState some SolidState 
+	ZirconiumAtom SubClassOf hasMetalness some Metal 
+	HolmiumAtom SubClassOf hasPhysicalState some SolidState 
+	IridiumAtom SubClassOf hasPhysicalState some SolidState 
+	PhosphorusAtom SubClassOf hasPhysicalState some SolidState 
+	TinAtom SubClassOf hasPhysicalState some SolidState 
+	RubidiumAtom SubClassOf hasPhysicalState some SolidState 
+	FermiumAtom SubClassOf hasMetalness some Metal 
+	CoperniciumAtom SubClassOf hasPhysicalState some SolidState 
+	PromethiumAtom SubClassOf hasMetalness some Metal 
+	RutherfordiumAtom SubClassOf hasMetalness some Metal 
+	ThalliumAtom SubClassOf hasMetalness some Metal 
+	RoentgeniumAtom SubClassOf hasMetalness some Metal 
+	PlutoniumAtom SubClassOf hasMetalness some Metal 
+	NeonAtom SubClassOf hasMetalness some NonMetal 
+	RadonAtom SubClassOf hasMetalness some NonMetal 
+	FranciumAtom SubClassOf hasMetalness some Metal 
+	GadoliniumAtom SubClassOf hasPhysicalState some SolidState 
+	EinsteiniumAtom SubClassOf hasPhysicalState some SolidState 
+	OxygenAtom SubClassOf hasPhysicalState some GasState 
+	IronAtom SubClassOf hasMetalness some Metal 
+	AstatineAtom SubClassOf hasMetalness some NonMetal 
+	SamariumAtom SubClassOf hasPhysicalState some SolidState 
+	FranciumAtom SubClassOf hasPhysicalState some SolidState 
+	SodiumAtom SubClassOf hasMetalness some Metal 
+	BismuthAtom SubClassOf hasMetalness some Metal 
+	PotassiumAtom SubClassOf hasPhysicalState some SolidState 
+	DarmstadtiumAtom SubClassOf hasMetalness some Metal 
+	ActiniumAtom SubClassOf hasMetalness some Metal 
+	CeriumAtom SubClassOf hasPhysicalState some SolidState 
+	CarbonAtom SubClassOf hasMetalness some NonMetal 
+	MolybdenumAtom SubClassOf hasMetalness some Metal 
+	PhosphorusAtom SubClassOf hasMetalness some NonMetal 
+	RadiumAtom SubClassOf hasPhysicalState some SolidState 
+	ArsenicAtom SubClassOf hasPhysicalState some SolidState 
+	BismuthAtom SubClassOf hasPhysicalState some SolidState 
+	CadmiumAtom SubClassOf hasPhysicalState some SolidState 
+	ScandiumAtom SubClassOf hasPhysicalState some SolidState 
+	HeliumAtom SubClassOf hasMetalness some NonMetal 
+	SulfurAtom SubClassOf hasPhysicalState some SolidState 
+	DysprosiumAtom SubClassOf hasPhysicalState some SolidState 
+	CuriumAtom SubClassOf hasPhysicalState some SolidState 
+	IronAtom SubClassOf hasPhysicalState some SolidState 
+	DubniumAtom SubClassOf hasPhysicalState some SolidState 
+	NiobiumAtom SubClassOf hasMetalness some Metal 
+	NitrogenAtom SubClassOf hasPhysicalState some GasState 
+	DysprosiumAtom SubClassOf hasMetalness some Metal 
+	MolybdenumAtom SubClassOf hasPhysicalState some SolidState 
+	RutheniumAtom SubClassOf hasPhysicalState some SolidState 
+	MeitneriumAtom SubClassOf hasPhysicalState some SolidState 
+	IridiumAtom SubClassOf hasMetalness some Metal 
+	LithiumAtom SubClassOf hasMetalness some Metal 
+	XenonAtom SubClassOf hasPhysicalState some GasState 
+	ErbiumAtom SubClassOf hasPhysicalState some SolidState 
+	FluorineAtom SubClassOf hasPhysicalState some GasState 
+	CeriumAtom SubClassOf hasMetalness some Metal 
+	EinsteiniumAtom SubClassOf hasMetalness some Metal 
+	CarbonAtom SubClassOf hasPhysicalState some SolidState 
+	HafniumAtom SubClassOf hasPhysicalState some SolidState 
+	RoentgeniumAtom SubClassOf hasPhysicalState some SolidState 
+	YttriumAtom SubClassOf hasMetalness some Metal 
+	SiliconAtom SubClassOf hasPhysicalState some SolidState 
+	MendeleviumAtom SubClassOf hasMetalness some Metal 
+	ZincAtom SubClassOf hasMetalness some Metal 
+	AntimonyAtom SubClassOf hasMetalness some Metalloid 
+	HassiumAtom SubClassOf hasMetalness some Metal 
+	GalliumAtom SubClassOf hasMetalness some Metalloid 
+	ChlorineAtom SubClassOf hasMetalness some NonMetal 
+	IodineAtom SubClassOf hasMetalness some NonMetal 
+	BerylliumAtom SubClassOf hasMetalness some Metal 
+	CuriumAtom SubClassOf hasMetalness some Metal 
+	TungstenAtom SubClassOf hasMetalness some Metal 
+	UraniumAtom SubClassOf hasMetalness some Metal 
+	GermaniumAtom SubClassOf hasMetalness some Metalloid 
+	DarmstadtiumAtom SubClassOf hasPhysicalState some SolidState 
+	EuropiumAtom SubClassOf hasPhysicalState some SolidState 
+	PalladiumAtom SubClassOf hasMetalness some Metal 
+	OxygenAtom SubClassOf hasMetalness some NonMetal 
+	ChromiumAtom SubClassOf hasMetalness some Metal 
+	ThalliumAtom SubClassOf hasPhysicalState some SolidState 
+	NobeliumAtom SubClassOf hasMetalness some Metal 
+	HolmiumAtom SubClassOf hasMetalness some Metal 
+	HeliumAtom SubClassOf hasPhysicalState some GasState 
+	KryptonAtom SubClassOf hasPhysicalState some GasState 
+	FluorineAtom SubClassOf hasMetalness some NonMetal 
+	ArgonAtom SubClassOf hasMetalness some NonMetal 
+	YtterbiumAtom SubClassOf hasMetalness some Metal 
+	DubniumAtom SubClassOf hasMetalness some Metal 
+	ArsenicAtom SubClassOf hasMetalness some Metalloid 
+	GalliumAtom SubClassOf hasPhysicalState some SolidState 
+	RadiumAtom SubClassOf hasMetalness some Metal 
+	ManganeseAtom SubClassOf hasMetalness some Metal 
+	BoronAtom SubClassOf hasMetalness some Metalloid 
+	LawrenciumAtom SubClassOf hasMetalness some Metal 
+	NitrogenAtom SubClassOf hasMetalness some NonMetal 
+	LeadAtom SubClassOf hasMetalness some Metal 
+	GoldAtom SubClassOf hasMetalness some Metal 
+	StrontiumAtom SubClassOf hasMetalness some Metal 
+	NeptuniumAtom SubClassOf hasMetalness some Metal 
+	ThuliumAtom SubClassOf hasMetalness some Metal 
+	PoloniumAtom SubClassOf hasPhysicalState some SolidState 
+	RutheniumAtom SubClassOf hasMetalness some Metal 
+	NeonAtom SubClassOf hasPhysicalState some GasState 
+	RadonAtom SubClassOf hasPhysicalState some GasState 
+	AstatineAtom SubClassOf hasPhysicalState some SolidState 
+	HassiumAtom SubClassOf hasPhysicalState some SolidState 
+	IndiumAtom SubClassOf hasMetalness some Metal 
+	ZincAtom SubClassOf hasPhysicalState some SolidState 
+	AluminumAtom SubClassOf hasMetalness some Metal 
+	ThoriumAtom SubClassOf hasPhysicalState some SolidState 
+	CadmiumAtom SubClassOf hasMetalness some Metal 
+	TerbiumAtom SubClassOf hasMetalness some Metal 
+	FermiumAtom SubClassOf hasPhysicalState some SolidState 
+	ChlorineAtom SubClassOf hasPhysicalState some GasState 
+	IndiumAtom SubClassOf hasPhysicalState some SolidState 
+	SeleniumAtom SubClassOf hasMetalness some Metal 
+	BromineAtom SubClassOf hasMetalness some NonMetal 
+	EuropiumAtom SubClassOf hasMetalness some Metal 
+	BariumAtom SubClassOf hasPhysicalState some SolidState 
+	PoloniumAtom SubClassOf hasMetalness some Metal 
+	IodineAtom SubClassOf hasPhysicalState some SolidState 
+	RhodiumAtom SubClassOf hasMetalness some Metal 
+	TechnetiumAtom SubClassOf hasPhysicalState some SolidState 
+	VanadiumAtom SubClassOf hasPhysicalState some SolidState 
+	SeaborgiumAtom SubClassOf hasPhysicalState some SolidState 
+	CoperniciumAtom SubClassOf hasMetalness some Metal 
+	SeaborgiumAtom SubClassOf hasMetalness some Metal 
+	AmericiumAtom SubClassOf hasMetalness some Metal 
+	TelluriumAtom SubClassOf hasMetalness some Metalloid 
+	TantalumAtom SubClassOf hasPhysicalState some SolidState 
+	TitaniumAtom SubClassOf hasMetalness some Metal 
+	XenonAtom SubClassOf hasMetalness some NonMetal 
+	PlatinumAtom SubClassOf hasMetalness some Metal 
+	MendeleviumAtom SubClassOf hasPhysicalState some SolidState 
+	SamariumAtom SubClassOf hasMetalness some Metal 
+	MagnesiumAtom SubClassOf hasMetalness some Metal 
+	BerylliumAtom SubClassOf hasPhysicalState some SolidState 
+	AluminumAtom SubClassOf hasPhysicalState some SolidState 
+	ArgonAtom SubClassOf hasPhysicalState some GasState 
+	AmericiumAtom SubClassOf hasPhysicalState some SolidState 
+	LutetiumAtom SubClassOf hasMetalness some Metal 
+	CalciumAtom SubClassOf hasPhysicalState some SolidState 
+	BohriumAtom SubClassOf hasMetalness some Metal 
+	RutherfordiumAtom SubClassOf hasPhysicalState some SolidState 
+	MercuryAtom SubClassOf hasMetalness some Metal 
+	GermaniumAtom SubClassOf hasPhysicalState some SolidState 
+	PraseodymiumAtom SubClassOf hasMetalness some Metal 
+	SeleniumAtom SubClassOf hasPhysicalState some SolidState 
+	PalladiumAtom SubClassOf hasPhysicalState some SolidState 
+	RhodiumAtom SubClassOf hasPhysicalState some SolidState 
+	NeodymiumAtom SubClassOf hasMetalness some Metal 
+	SulfurAtom SubClassOf hasMetalness some NonMetal 
+	HydrogenAtom SubClassOf hasPhysicalState some GasState 
+	TinAtom SubClassOf hasMetalness some Metal 
+	BerkeliumAtom SubClassOf hasMetalness some Metal 
+	AntimonyAtom SubClassOf hasPhysicalState some SolidState 
+	VanadiumAtom SubClassOf hasMetalness some Metal 
+	RheniumAtom SubClassOf hasPhysicalState some SolidState 
+	LeadAtom SubClassOf hasPhysicalState some SolidState 
+	CalciumAtom SubClassOf hasMetalness some Metal 
+	SiliconAtom SubClassOf hasMetalness some Metalloid 
+	ManganeseAtom SubClassOf hasPhysicalState some SolidState 
+	KryptonAtom SubClassOf hasMetalness some NonMetal 
+	TelluriumAtom SubClassOf hasPhysicalState some SolidState 
+	OsmiumAtom SubClassOf hasPhysicalState some SolidState 
+	CaliforniumAtom SubClassOf hasPhysicalState some SolidState 
+	ActiniumAtom SubClassOf hasPhysicalState some SolidState 
+	ErbiumAtom SubClassOf hasMetalness some Metal 
+	MeitneriumAtom SubClassOf hasMetalness some Metal 
+	ScandiumAtom SubClassOf hasMetalness some Metal 
+	TitaniumAtom SubClassOf hasPhysicalState some SolidState 
+	PotassiumAtom SubClassOf hasMetalness some Metal 
+	BariumAtom SubClassOf hasMetalness some Metal 
+	NiobiumAtom SubClassOf hasPhysicalState some SolidState 
+	CopperAtom SubClassOf hasPhysicalState some SolidState 
+	BoronAtom SubClassOf hasPhysicalState some SolidState 
+	SodiumAtom SubClassOf hasPhysicalState some SolidState 
+	OsmiumAtom SubClassOf hasMetalness some Metal 
+	CaliforniumAtom SubClassOf hasMetalness some Metal 
+	ThoriumAtom SubClassOf hasMetalness some Metal 
+	NickelAtom SubClassOf hasPhysicalState some SolidState 
+	SilverAtom SubClassOf hasPhysicalState some SolidState 
+ Functional: ?cluster_4
+	 Instantiations: (2)
+	 Functional: hasMetalness 
+	 Functional: hasPhysicalState 
+?cluster_1 SubClassOf (?cluster_4 some ?DomainEntity) and (?cluster_5 only ((?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 5 ?DomainEntity_1) and (hasOrder value "?constant"^^string))))
+	 Instantiations: (1)
+	TechnetiumAtom SubClassOf (hasMetalness some Metal) and (hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 5)))) 
+
+Cluster ?cluster_5:OBJECTPROPERTY
+Cluster size: 2
+[contains, hasValenceElectronShell, ]
+Generalisations:
+?cluster_1 SubClassOf ?cluster_5 only (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string))
+	 Instantiations: (6)
+	StrontiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 5)) 
+	BariumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 6)) 
+	MagnesiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 3)) 
+	BerylliumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 2)) 
+	HeliumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 1)) 
+	RadiumAtom SubClassOf hasValenceElectronShell only (SShell and (contains exactly 2 Electron) and (hasOrder value 7)) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 1 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (5)
+	CesiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 6))) 
+	HydrogenAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 1))) 
+	SodiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 3))) 
+	LithiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 2))) 
+	FranciumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 7))) 
+?cluster_1 SubClassOf ?cluster_5 only (?expression_1_disjunction)
+	 Instantiations: (4)
+	TitaniumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 2 Electron) and (hasOrder value 3)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 4))) 
+	CarbonAtom SubClassOf hasValenceElectronShell only ((PShell and (contains exactly 2 Electron) and (hasOrder value 2)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 2))) 
+	ZirconiumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 2 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 5))) 
+	SiliconAtom SubClassOf hasValenceElectronShell only ((PShell and (contains exactly 2 Electron) and (hasOrder value 3)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 3))) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (3)
+	StrontiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 5))) 
+	MagnesiumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 3))) 
+	HeliumAtom SubClassOf Atom and (hasValenceElectronShell some (SShell and (contains exactly 2 Electron) and (hasOrder value 1))) 
+?cluster_1 SubClassOf ?cluster_5 only ((FShell and (?cluster_5 exactly 14 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1) and (hasOrder value "?constant"^^string)) or (?cluster_3 and (?cluster_5 exactly 5 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (2)
+	BohriumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 6)) or (FShell and (contains exactly 14 Electron) and (hasOrder value 5)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 7))) 
+	RheniumAtom SubClassOf hasValenceElectronShell only ((DShell and (contains exactly 5 Electron) and (hasOrder value 5)) or (FShell and (contains exactly 14 Electron) and (hasOrder value 4)) or (SShell and (contains exactly 2 Electron) and (hasOrder value 6))) 
+?cluster_1 SubClassOf ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 1 ?DomainEntity_1) and (hasOrder value "?constant"^^string))) and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 10 ?DomainEntity_1) and (hasOrder value "?constant"^^string)))
+	 Instantiations: (1)
+	CopperAtom SubClassOf Atom and (hasValenceElectronShell some (DShell and (contains exactly 10 Electron) and (hasOrder value 3))) and (hasValenceElectronShell some (SShell and (contains exactly 1 Electron) and (hasOrder value 4))) 
+
+Cluster ?cluster_6:CLASS
+Cluster size: 2
+[halogen atom, Noble gas atom, ]
+Generalisations:
+?cluster_6.IRI label "?constant"^^string
+	 Instantiations: (2)
+	<http://www.co-ode.org/roberts/atoms.owl#HalogenAtom> label "halogen atom" 
+	<http://www.co-ode.org/roberts/atoms.owl#NobleGasAtom> label "Noble gas atom" 
+?cluster_6 EquivalentTo ?DomainEntity_1 and (?cluster_5 some (?cluster_3 and (?cluster_5 exactly 5 ?DomainEntity_1))) and (?cluster_5 only ((FShell and (?cluster_5 exactly 14 ?DomainEntity_1)) or (?cluster_3 and (?cluster_5 exactly 2 ?DomainEntity_1)) or (?cluster_3 and (?cluster_5 exactly 5 ?DomainEntity_1)) or (?cluster_3 and (?cluster_5 exactly 10 ?DomainEntity_1))))
+	 Instantiations: (1)
+	halogen atom EquivalentTo Atom and (hasValenceElectronShell some (PShell and (contains exactly 5 Electron))) and (hasValenceElectronShell only ((DShell and (contains exactly 10 Electron)) or (FShell and (contains exactly 14 Electron)) or (PShell and (contains exactly 5 Electron)) or (SShell and (contains exactly 2 Electron)))) 
+
